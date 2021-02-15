@@ -1,4 +1,27 @@
-import logo from './logo.svg';
+
+import React from 'react';
+import Painting from './components/Painting';
+
+const App = () => {
+  return <div>
+    
+    <h1>Главный компонент</h1>
+    <Painting /> 
+    
+  </div>
+}
+
+export default App;
+
+
+
+
+
+
+
+
+
+/* import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -23,3 +46,4 @@ function App() {
 }
 
 export default App;
+ */
