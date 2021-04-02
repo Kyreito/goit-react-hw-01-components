@@ -12,12 +12,12 @@ const App = () => {
   return (
     <div>
       <Panel title="Последние новости">
-        <p>Привіт  n.k;jk;kj;j ;kh;hk;;kh ljnlnbghg чілдрен</p>
+        <p>Привіт чілдрен</p>
         <a href="">Read more</a>
       </Panel>
 
       <Panel>
-        <p>Привіт  n.k;jk;kj;j ;kh;hk;;kh ljnlnbghg чілдрен</p>
+        <p>Привіт чілдрен</p>
         
       </Panel>
 

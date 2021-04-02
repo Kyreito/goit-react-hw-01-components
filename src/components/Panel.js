@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 const styles = {
     outline: '1px solid tomato',
+    
 };
 
 const Panel = ({title, children}) => (
@@ -11,7 +12,7 @@ const Panel = ({title, children}) => (
          
         {children} 
     </div>
-);
+); 
 
 Panel.defaultProps = {
     title: "",
